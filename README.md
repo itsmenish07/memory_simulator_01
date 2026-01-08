@@ -8,6 +8,7 @@ The project is designed for learning and experimentation, allowing users to visu
 ## Demo video: https://drive.google.com/file/d/1ZnvRdLAW3XAyBDexYJ4IBVZRMVq1Hb2_/view?usp=sharing
 ## Video 2: https://drive.google.com/file/d/1KHExxikziieKRA2L9bewVutW-PHi6veF/view?usp=sharing
 ## Test Artifacts docs file: https://docs.google.com/document/d/1uweeHVJXwzO82ifcGRE2u22_DkPgWFMr/edit?usp=sharing&ouid=107229125839487798625&rtpof=true&sd=true
+## the design.md file is in the docs folder of the project structure. 
 
 ## 🚀 Features
 
